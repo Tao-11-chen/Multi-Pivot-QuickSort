@@ -1,4 +1,4 @@
-# An implementation of the Multi-Pivot-QuickSort algorithm
+# An implementation of the Multi-Pivot QuickSort
 
 Based on the paper: "Multi-Pivot Quicksort: Theory and Experiments"
 
